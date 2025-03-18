@@ -2,7 +2,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbamlatte&count_bg=%23002f6c&title_bg=%23002f6c&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/Oilwoo)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:ooo4268270@gmail.com)
-[![Tech Blog Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)]([https://jun10920.tistory.com/](https://oil-story.tistory.com/))
+[![Blog Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)]([https://oil-story.tistory.com/])
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat&logo=LinkedIn&logoColor=white)]([https://www.linkedin.com/in/ilwoo-oh-8965b8344/])
 
 ## 👋 About Me
