@@ -1,18 +1,18 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:80DAEB&height=200&section=header&text=Welcome!&fontColor=2C3E50&fontSize=60&fontAlignY=35&desc=Achieve%20Developer%20GitHub&descAlignY=65&descAlign=50&animation=fadeIn&speed=3)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbamlatte&count_bg=%23002f6c&title_bg=%23002f6c&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/Oilwoo)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:ooo4268270@gmail.com)
-[![Blog Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)]([https://oil-story.tistory.com/])
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat&logo=LinkedIn&logoColor=white)]([https://www.linkedin.com/in/ilwoo-oh-8965b8344/])
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=YOUR_GITHUB_URL&count_bg=%23002f6c&title_bg=%23002f6c&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/Oilwoo)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:ooo952@naver.com)
+[![Tech Blog Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://oil-story.tistory.com/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ilwoo-oh-8965b8344/)
 
 ## 👋 About Me
 
 > **"가치를 이루는 개발자."**
 
 - **사용자 중심**으로 문제를 고민하고, **디지털 전환**과 **AI** 기술로 **편리한 가치**를 만들어내는 데 열정을 갖고 있습니다.
-- 학업과 실무를 병행하며 **효율적인 일정 관리**와 **자기 주도적 학습 역량**을 키워왔습니다.
 - **Google Developer Groups, AWS Cloud Clubs**에서 서로 다른 배경의 사람들과 협업하며 성장하는 것을 즐깁니다.
 - 더 나은 서비스를 제공하기 위해 **최신 트렌드**와 **기술 스택**을 끊임없이 학습하고 인사이트를 공유합니다.
+- 학업과 실무를 병행하며 **효율적인 일정 관리**와 **자기 주도적 학습 역량**을 키워왔습니다.
 
 ---
 
@@ -26,8 +26,7 @@
 - [CHEXCAR App (Google Play)](https://play.google.com/store/apps/details?id=kr.co.chexcar.app&hl=ko&gl=US)
 
 **주요 기여 내용**  
-- **REST API 성능 최적화**: 중복 쿼리 및 불필요 로직 제거로 **평균 응답속도 45% 단축**  
-- **SNS 로그인**(카카오·네이버·구글·iOS)
+- **SNS 로그인**(카카오·네이버·구글·iOS) 가입 구현
 - **프로세스 통합**: 사용자 가입 전환율 30% 증가  
 - **TeamCity** 기반 **CI/CD 자동화**: 배포 시간 50% 단축 + 인프라 오류 탐지율 개선  
 - **AWS 인프라 고도화**: EC2+S3+Nginx 조합으로 **서비스 가용성 99.9%** 유지
@@ -40,7 +39,7 @@
 - **DB 마이그레이션**(MSSQL → MariaDB)으로 **라이선스 비용 절감** + 쿼리 응답속도 70% 개선  
 - **Jenkins 도입**을 통한 **배포 프로세스 자동화**: 인력·시간 리소스 40% 이상 절감  
 - **로깅 체계 표준화**: 분산 로그 통합해 장애 분석 및 대응 시간 60% 절감  
-- 레거시 **JSP·jQuery 코드** 리팩토링으로 UX 향상 및 유지보수 편의성 강화
+- 레거시 **jQuery 코드** ES6 리팩토링으로 UX 향상 및 유지보수 편의성 강화
 
 ---
 
@@ -55,7 +54,9 @@
 ---
 
 > **정보보호병 (군 복무)**  
-> 2018.10 ~ 2020.05  
+> 2018.10 ~ 2020.05
+
+---
 
 > **(주)티지 / 개발그룹** (2016.08 ~ 2018.09)  
 > - **전자정부프레임워크**(Spring/JSP) 기반 유지보수(일산병원, 마사회, 수자원공사 EAMS 등)  
@@ -68,8 +69,8 @@
 
 > **핵심 프로젝트**를 요약해 소개합니다.
 
-### 1. 노약자용 AI 챗봇 “POPPET”
-- **개인/커뮤니티 프로젝트**  
+### 1. 사회적 소통에 취약한 노약자를 위한 AI 챗봇 “POPPET”
+- **프로젝트**  
   (Google Developer Groups, Solution Challenge)
 - **성과**:
   - **GCP + Terraform** 기반 인프라 구축
@@ -78,21 +79,20 @@
 
 ---
 
-## 💪 Strong Skills
+## 💪 Skills
 
 ### Language
 - **Java**, **JavaScript**(ES6, jQuery), **Python**
 
 ### Framework / Library
-- **Spring**(Boot, MVC), **JPA**, **MyBatis**, **jQuery**
+- **Spring**(Boot, MVC), **JPA**, **MyBatis**
 
 ### Database
 - **MSSQL**, **MySQL**, **MariaDB**, **Redis**
 
 ### DevOps
-- **Jenkins**, **TeamCity**, **Docker**  
-- **AWS**(EC2, S3), **Nginx**  
-- Git/GitHub
+- **Jenkins**, **TeamCity**, **GitHub Actions**, **Docker**  
+- **AWS**, **GCP**, **Nginx**, 
 
 ---
 
@@ -100,7 +100,7 @@
 
 - **SAFFY 13기** (2025.01 ~ )  
 - **숭실대학교 IT학부 미디어경영학과** (2021.03 ~ 2025.02)  
-  - 평점 **4.05**  
+  - 평점 4.05, **학과 우등상 수상**  
   - UX/UI 디자인, 머신러닝, 딥러닝, 하이테크 마케팅
 
 ---
