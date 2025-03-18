@@ -86,7 +86,7 @@
 ## 💪 Skills
 
 ### Language
-- **Java**, **JavaScript**(ES6, jQuery), Python
+- **Java**, JavaScript(ES6, jQuery), Python
 
 ### Framework / Library
 - **Spring**(Boot, MVC), **JPA(Hibernate)**, **MyBatis/IBatis**
