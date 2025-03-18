@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:80DAEB&height=200&section=header&text=Welcome!&fontColor=2C3E50&fontSize=60&fontAlignY=35&desc=Achieve%20Developer%20GitHub&descAlignY=65&descAlign=50&animation=fadeIn&speed=3)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=YOUR_GITHUB_URL&count_bg=%23002f6c&title_bg=%23002f6c&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/Oilwoo)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=Oilwoo&count_bg=%23002f6c&title_bg=%23002f6c&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/Oilwoo)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:ooo952@naver.com)
 [![Tech Blog Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://oil-story.tistory.com/)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ilwoo-oh-8965b8344/)
