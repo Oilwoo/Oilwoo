@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:80DAEB&height=200&section=header&text=Welcome!&fontColor=2C3E50&fontSize=60&fontAlignY=35&desc=Achieve%20Developer%20GitHub&descAlignY=65&descAlign=50&animation=fadeIn&speed=3)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=Oilwoo&count_bg=%23002f6c&title_bg=%23002f6c&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/Oilwoo)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:ooo4268270@gmail.com)
 [![Blog Badge](https://img.shields.io/badge/Blog-555263?style=flat&logoColor=white)](https://oil-story.tistory.com/)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ilwoo-oh-8965b8344/)
@@ -18,54 +17,27 @@
 
 ## 🔧 Experience
 
-### (주)이엠아이앤씨(이엠아이) / ICT사업부 개발팀 / 주임  
-2020.08 ~ 2024.08
+### (주)이엠아이앤씨(이엠아이) / ICT사업부 개발팀 / 주임
+(2020.08 ~ 2024.08)
+- 비즈니스 요구사항 기반 DB 및 아키텍처 설계
+- SpringBoot + JPA(QueryDSL) REST API 개발
+- Spring MVC + JSP 기반 웹 개발 및 운영
+- HikariCP 커넥션풀 교체 및 쿼리 개선
+- MSSQL → MariaDB 마이그레이션
+- NCP → 온프레미스 이전
+- Jenkins, TeamCity를 활용한 CI/CD 파이프라인 구축
+- JavaScript(ES6, JQuery) Front-End 개발
+---
 
-#### 1. CHEXCAR 상품화·경매 시스템 구축
-- [CHEXCAR Store](https://store.chexcar.co.kr/)  
-- [CHEXCAR App (Google Play)](https://play.google.com/store/apps/details?id=kr.co.chexcar.app&hl=ko&gl=US)
-- 백오피스 시스템(관리자, 성능장)
-  
-**주요 기여**
-- 탁송/검수/상품화/판매 프로세스 분석 및 웹/앱 시스템 **아키텍처 설계 및 개발**
-- 협력사(오픈마일, 기아CPO)에 **Open-API** 제공, 시스템을 연동하여 입/출고 업무 자동화를 통한 관리자 주당 업무 **10시간 단축**
-- **SNS 로그인**(카카오·네이버·구글·iOS) JWT 로그인 구현
-- **TeamCity** 기반 **CI/CD 자동화** 배포 시간 단축
-- AWS 기반 인프라 구축/운영
+> **정보보호병 (군 복무)** 2018.10 ~ 2020.05
 
 ---
 
-#### 2. 경기자동차매매사업조합 백오피스 시스템 운영
-- 제시매도, 성능장, 관리자, 협력 캐피탈사 재고금융 등 백오피스 시스템
-
-**주요 기여**
-- DB스키마 조정 쿼리 최적화를 통해 제시매도 데이터 조회속도 **70% 개선**
-- **NCP**에서 온프레미스환경으로 인프라 구축을 통한 **운영 안정성 향상**
-- **DB 마이그레이션**(MSSQL → MariaDB)으로 **라이선스 비용 절감**
-- **Jenkins CI/CD구축**을 통한 배포 프로세스를 구축하여 **배포 시간 단축 및 운영 효율성 향상**
-- 레거시 jQuery 코드 ES6 리팩토링으로 UI/UX 향상 및 유지보수 편의성 강화
-
----
-
-#### 3. 경동오토필드 홈페이지 및 입출고 시스템
-- [홈페이지](https://www.kyungdongautofield.com/)
-- 입/출고, 성능장, 관리자 등 백오피스 시스템
-  
-**주요 기여**  
-- 입/출고 시스템 IoT(주차게이트)와 API 연동을 통해, 프로세스를 자동화하여 관리자 **주당 업무 20시간 단축**
-- 차량 검색 시스템 리팩토링 UI/UX 향상
-
----
-
-> **정보보호병 (군 복무)**  
-> 2018.10 ~ 2020.05
-
----
-
-> **(주)티지 / 개발그룹** (2016.08 ~ 2018.09)  
-> - **전자정부프레임워크**(Spring/JSP) 기반 유지보수(일산병원, 마사회, 수자원공사 EAMS 등)  
-> - 한국도로공사 **C-ITS 프로젝트**(ISMP 수립) 참여  
-> - 사내 전산 장비 관리 시스템 개발 및 유지보수
+> **(주)티지 / 개발그룹** (2016.08 ~ 2018.09)
+> 사무보조 및 개발 지원
+- 제안서 보조, 프로젝트 개발 산출물(ERD, 기능명세서) 작성 지원
+- 공공기관 범정부 EA 데이터 관리 지원
+- 공공기관 EA 시스템 서버 점검
 
 ---
 
