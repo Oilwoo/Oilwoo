@@ -54,6 +54,7 @@
   - 팀장 역할로 기획/일정 관리 + 전체 구조 설계
   - 노약자·보호자 간 소통 편의성 개선
 
+[![Watch the video](https://img.youtube.com/vi/XvmfZ9AZ7tY/0.jpg)](https://www.youtube.com/watch?v=XvmfZ9AZ7tY)
 ---
 
 ## 💪 Skills
